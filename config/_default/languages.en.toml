@@ -1,0 +1,21 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Leiko's Blog"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+github = "https://github.com/llravelo"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/leikoravelo/"
+
+["params.author"]
+name = "Leiko Ravelo"
+headline = "Welcome to my website"
