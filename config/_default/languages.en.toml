@@ -18,4 +18,5 @@ linkedin = "https://www.linkedin.com/in/leikoravelo/"
 
 ["params.author"]
 name = "Leiko Ravelo"
+image = "img/profile.jpeg"
 headline = "Welcome to my website"
